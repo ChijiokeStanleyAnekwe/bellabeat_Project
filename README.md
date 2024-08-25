@@ -1,1 +1,0 @@
-# bellabeat_Project
